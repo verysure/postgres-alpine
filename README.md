@@ -31,5 +31,6 @@ Acknowledge
 
 The recipes build from many open source projects, including
 * [Singularity](https://singularity.lbl.gov/)
-* [Ubuntu](https://www.ubuntu.com/)
+* [postgres](https://www.postgresql.org/)
+* [Alpine Linux](https://www.alpinelinux.org/)
 
